@@ -1,6 +1,11 @@
 # Hi everyone! 👋
 Welcome to my GitHub profile! I'm a software developer with experience in a range of web technologies, application development, and databases. Here's a quick rundown of my skills and what I'm currently working on:
 
+<div style="float: right;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllACNvW2HWUCatWG6VkDbsXXehPQXpC4_NgwdDb5jha8yfQEesL4wabfbh4TsHMd9ynY&usqp=CAU" alt="programmer" style="align: right;"/>
+</div>
+
+
 ## My Skills
 <!-- then include the images as before -->
 
