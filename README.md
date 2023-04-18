@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a software developer with experience in a rang
 - JavaScript 
 - React 
 - Redux 
+- Wordpress
 - Webpack 
 - Gatsby
 - Express.js
