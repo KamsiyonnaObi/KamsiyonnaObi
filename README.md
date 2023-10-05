@@ -17,21 +17,19 @@ Welcome to my GitHub profile! I'm a software developer with experience in a rang
 - JavaScript 
 - React 
 - Redux 
-- Wordpress
+- WordPress
 - Webpack 
 - Gatsby
 - Express.js
 
 ## Application Development
-- Node.js 
+- Ionic w/ Angular or React
 - Python 
 - Flutter
 - React Native
 
 
 ## Databases
-- SQL Server
-- MySql
 - PostgreSQL
 - MongoDB
 - Firebase
