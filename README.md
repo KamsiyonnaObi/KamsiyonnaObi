@@ -14,26 +14,23 @@ Welcome to my GitHub profile! I'm a software developer with experience in a rang
 ## Web Technologies
 - HTML5 
 - CSS3 
-- JavaScript 
+- JavaScript
+- TypeScript
 - React 
 - Redux 
-- WordPress
-- Webpack 
-- Gatsby
-- Express.js
+
 
 ## Application Development
 - Ionic w/ Angular or React
-- Python 
-- Flutter
+- React JS 
+- Next JS
 - React Native
 
 
 ## Databases
-- PostgreSQL
 - MongoDB
 - Firebase
-- Mongoose
+
 
 ## What I'm Currently Doing
 I'm focused on expanding my knowledge of cloud-based development using AWS. I'm also exploring new front-end technologies like Next.js and TypeScript. I'm always looking for new projects and opportunities to collaborate, so please feel free to reach out if you're interested in working together
