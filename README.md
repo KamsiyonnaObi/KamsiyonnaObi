@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a software developer with experience in a rang
 
 
 ## What I'm Currently Doing
-I'm focused on expanding my knowledge of cloud-based development using AWS. I'm always looking for new projects and opportunities to collaborate, feel free to reach out if you're interested in working together
+I'm focused on expanding my knowledge of cloud-based development using AWS. Also doing a deep dive into postgreSQL
 
 ## ⚡ Fun fact: 
 I am a huge Game Of Thrones Fan.
