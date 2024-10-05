@@ -21,19 +21,17 @@ Welcome to my GitHub profile! I'm a software developer with experience in a rang
 
 
 ## Application Development
-- Ionic w/ Angular or React
 - React JS 
 - Next JS
-- React Native
 
 
 ## Databases
 - MongoDB
-- Firebase
+- PostgreSQL
 
 
 ## What I'm Currently Doing
-I'm focused on expanding my knowledge of cloud-based development using AWS. Also doing a deep dive into postgreSQL
+I'm focused on expanding my knowledge of cloud-based development using AWS.
 
 ## ⚡ Fun fact: 
 I am a huge Game Of Thrones Fan.
