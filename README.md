@@ -16,11 +16,13 @@ Welcome to my GitHub profile! I'm a software developer with experience in a rang
 - CSS3 
 - JavaScript
 - TypeScript
+- Angular
 - React 
 - Redux 
 
 
 ## Application Development
+- .NET
 - React JS 
 - Next JS
 
@@ -31,7 +33,7 @@ Welcome to my GitHub profile! I'm a software developer with experience in a rang
 
 
 ## What I'm Currently Doing
-I'm focused on expanding my knowledge of cloud-based development using AWS.
+Building .NET applications in the finance industry.
 
 ## ⚡ Fun fact: 
 I am a huge Game Of Thrones Fan.
