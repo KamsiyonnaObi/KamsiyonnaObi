@@ -1,54 +1,20 @@
-# Hi everyone! 👋
-Welcome to my GitHub profile! I'm a software developer with experience in a range of web technologies, application development, and databases. Here's a quick rundown of my skills and what I'm currently working on:
+# Kamsiyonna Obi
 
-<div style="float: right;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllACNvW2HWUCatWG6VkDbsXXehPQXpC4_NgwdDb5jha8yfQEesL4wabfbh4TsHMd9ynY&usqp=CAU" alt="programmer" style="align: right;"/>
-</div>
+Full-stack software developer building financial technology in C#/.NET, Angular and TypeScript.
 
+Currently developing internal tools for financial advisors at a credit union, including the Financial Goals feature (.NET REST API).
 
-## My Skills
-<!-- then include the images as before -->
+## Stack
+- **Backend:** C#/.NET, REST APIs, Express.js
+- **Frontend:** Angular, React, Next.js, TypeScript
+- **Data:** PostgreSQL, SQL, MongoDB
+- **Tools:** Git, Claude Code, Visual Studio, VS Code
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30"/>
+## Featured projects
+- **[Hip-node](https://github.com/KamsiyonnaObi/Hip-node):** A social platform for developers, built with TypeScript
+- **[Portfolio](https://github.com/KamsiyonnaObi/portfolio):** kamsiyonna.site
 
-## Web Technologies
-- HTML5 
-- CSS3 
-- JavaScript
-- TypeScript
-- Angular
-- React 
-- Redux 
-
-
-## Application Development
-- .NET
-- React JS 
-- Next JS
-
-
-## Databases
-- MongoDB
-- PostgreSQL
-
-
-## What I'm Currently Doing
-Building .NET applications in the finance industry.
-
-## ⚡ Fun fact: 
-I am a huge Game Of Thrones Fan.
-
-<!--
-**KamsiyonnaObi/KamsiyonnaObi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- Email: obikamsi@gmail.com
+- LinkedIn: [Kamsiyonna Obi](https://www.linkedin.com/in/kamsiyonna-obi-50a020167/)
+- Portfolio: [kamsiyonna.site](https://www.kamsiyonna.site)
