@@ -1,18 +1,22 @@
 # Kamsiyonna Obi
 
-Full-stack software developer building financial technology in C#/.NET, Angular and TypeScript.
+I believe a clear financial plan can change a person's life. I build software that makes that plan easier to see, act on and trust.
 
-Currently developing internal tools for financial advisors at a credit union, including the Financial Goals feature (.NET REST API).
+## How I work
+- Start from the person who will use the software, whether that's an advisor or a member
+- Keep financial software reliable first, then add features
+- Share what I learn: I mentor early-career developers through mock interviews and graded projects
+
+## What I build
+- **Financial Goals:** a .NET REST API that helps financial advisors track members toward their goals
+- **Internal advisor tools:** C#/.NET and TypeScript/Angular applications used across an organization
+- **Graceland eCommerce:** a Next.js and TypeScript storefront with an order management system
 
 ## Stack
 - **Backend:** C#/.NET, REST APIs, Express.js
 - **Frontend:** Angular, React, Next.js, TypeScript
 - **Data:** PostgreSQL, SQL, MongoDB
 - **Tools:** Git, Claude Code, Visual Studio, VS Code
-
-## Featured projects
-- **[Hip-node](https://github.com/KamsiyonnaObi/Hip-node):** A social platform for developers, built with TypeScript
-- **[Portfolio](https://github.com/KamsiyonnaObi/portfolio):** kamsiyonna.site
 
 ## Get in touch
 - Email: obikamsi@gmail.com
